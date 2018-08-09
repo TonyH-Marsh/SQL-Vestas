@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ds10_MarshDK02">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=PrDB10;Initial Catalog=Sims_MarshDK02</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>75133fe4-a66c-4c99-a636-fe0d6f942c93</DataSourceID>
+</RptDataSource>
